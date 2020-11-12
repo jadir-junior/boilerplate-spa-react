@@ -1,17 +1,31 @@
 import React from 'react'
-import './App.css'
+import styled from 'styled-components'
 import Logo from './components/Logo'
+
+const Wrapper = styled.div`
+  color: white;
+  background-color: black;
+  height: 100%;
+`
+
+const Header = styled.header`
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+`
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <Wrapper>
+      <Header>
         <Logo />
-        <p aria-label="Boilerplate criado por Jadir Junior">
+        <h2 aria-label="Boilerplate criado por Jadir Junior">
           Boilerplate criado por Jadir Junior!
-        </p>
-      </header>
-    </div>
+        </h2>
+      </Header>
+    </Wrapper>
   )
 }
 
