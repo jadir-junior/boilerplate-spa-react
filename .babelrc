@@ -1,4 +1,4 @@
 {
-  "plugins": ["babel-plugin-styled-components"],
-  "presets": ["@babel/preset-typescript"]
+  "presets": ["@babel/preset-typescript"],
+  "plugins": ["babel-plugin-styled-components"]
 }
