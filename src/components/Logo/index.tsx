@@ -1,7 +1,8 @@
 import React from 'react'
+import * as S from './Logo.styles'
 
 const Logo = () => (
-  <div style={{ width: '11rem', height: '8rem' }}>
+  <S.Wrapper>
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.9 595.3">
       <defs />
       <g fill="yellow">
@@ -9,7 +10,7 @@ const Logo = () => (
         <circle cx="420.9" cy="296.5" r="45.7" />
       </g>
     </svg>
-  </div>
+  </S.Wrapper>
 )
 
 export default Logo

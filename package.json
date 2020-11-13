@@ -19,6 +19,7 @@
     "lint": "eslint src --max-warnings=0",
     "eject": "react-scripts eject",
     "generate:component": "yarn plop --plopfile generators/component.js",
+    "generate:container": "yarn plop --plopfile generators/container.js",
     "storybook": "start-storybook -p 6006 -s public --no-dll",
     "build-storybook": "build-storybook -s public --no-dll"
   },
