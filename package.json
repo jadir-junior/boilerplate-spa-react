@@ -27,7 +27,8 @@
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.ts(x)?",
-      "!src/**/stories.tsx"
+      "!src/**/*.stories.tsx",
+      "!src/**/*.styles.ts"
     ],
     "coveragePathIgnorePatterns": [
       "src/styles",
