@@ -18,6 +18,7 @@
     "test:watch": "yarn test --watch",
     "test:staged": "react-scripts test --watchAll=false --coverage --env=jsdom --findRelatedTests",
     "lint": "eslint src --max-warnings=0",
+    "typecheck": "tsc --project tsconfig.json --noEmit",
     "eject": "react-scripts eject",
     "generate:component": "yarn plop --plopfile generators/component.js",
     "generate:container": "yarn plop --plopfile generators/container.js",
