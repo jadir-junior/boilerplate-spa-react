@@ -32,8 +32,8 @@ const GlobalStyles = createGlobalStyle`
       box-sizing: 0;
   }
 
-  html: {
-      font-size: 62.5%
+  html {
+      font-size: 62.5%;
   }
 
   ${({ theme }) => css`
