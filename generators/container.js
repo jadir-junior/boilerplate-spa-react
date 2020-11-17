@@ -23,12 +23,6 @@ module.exports = (plop) => {
       {
         type: 'add',
         path:
-          '../src/containers/{{pascalCase name}}/{{pascalCase name}}.stories.tsx',
-        templateFile: 'templates/stories.tsx.hbs'
-      },
-      {
-        type: 'add',
-        path:
           '../src/containers/{{pascalCase name}}/{{pascalCase name}}.test.tsx',
         templateFile: 'templates/test.tsx.hbs'
       }
