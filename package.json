@@ -2,6 +2,7 @@
   "name": "boilerplate-spa-react",
   "version": "0.1.0",
   "private": true,
+  "author": "Jadir J. S. Junior",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
