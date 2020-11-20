@@ -15,7 +15,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --coverage",
+    "test": "react-scripts test",
+    "test:coverage": "yarn test --coverage",
     "test:watch": "yarn test --watch",
     "test:staged": "react-scripts test --watchAll=false --coverage --env=jsdom --findRelatedTests",
     "lint": "eslint src --max-warnings=0",
