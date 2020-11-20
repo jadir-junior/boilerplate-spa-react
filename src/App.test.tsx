@@ -22,7 +22,7 @@ describe('<App />', () => {
   it('should render with theme', () => {
     const { container } = renderWithTheme(<App />)
 
-    expect(container.firstChild).toHaveStyle({
+    expect(container.firstChild?.firstChild).toHaveStyle({
       maxWidth: '130rem'
     })
   })
