@@ -1,3 +1,5 @@
+![Build Status]&nbsp;(https://github.com/jadir-junior/boilerplate-spa-react/workflows/ci/badge.svg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
