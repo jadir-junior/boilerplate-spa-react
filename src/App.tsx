@@ -1,16 +1,11 @@
 import React from 'react'
-import Logo from './components/Logo'
+import HomePage from 'containers/HomePage'
 import * as S from './App.styles'
 
 function App() {
   return (
     <S.Wrapper>
-      <S.Content>
-        <Logo />
-        <S.Heading aria-label="Boilerplate criado por Jadir Junior">
-          Boilerplate criado por Jadir Junior!
-        </S.Heading>
-      </S.Content>
+      <HomePage />
     </S.Wrapper>
   )
 }
