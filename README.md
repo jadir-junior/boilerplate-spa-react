@@ -1,4 +1,4 @@
-![Build Status]&nbsp;(https://github.com/jadir-junior/boilerplate-spa-react/workflows/ci/badge.svg)
+![Build Status](https://github.com/jadir-junior/boilerplate-spa-react/workflows/ci/badge.svg)
 
 # Getting Started with Create React App
 
