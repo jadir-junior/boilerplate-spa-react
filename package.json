@@ -68,7 +68,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.3",
     "@babel/preset-typescript": "^7.12.1",
-    "@storybook/addon-actions": "^6.0.28",
+    "@storybook/addon-actions": "^6.1.1",
     "@storybook/addon-essentials": "^6.0.28",
     "@storybook/addon-links": "^6.0.28",
     "@storybook/node-logger": "^6.1.1",
