@@ -1,6 +1,10 @@
-import styled from 'styled-components'
+import styled, { css } from 'styled-components'
 
-export const Wrapper = styled.div``
+export const Wrapper = styled.div`
+  ${({ theme }) => css`
+    max-width: ${theme.grid.container};
+  `}
+`
 
 export const Content = styled.div`
   color: white;

@@ -1,10 +1,12 @@
 import React from 'react'
-import { render } from '@testing-library/react'
+import { renderWithTheme } from 'utils/tests/helpers'
 
 import HomePage from '.'
 
 describe('<HomePage />', () => {
   it('should render then HomePage', () => {
-    render(<HomePage />)
+    const { container } = renderWithTheme(<HomePage />)
+
+    expect(container.firstChild).toBeInTheDocument()
   })
 })

@@ -1,5 +1,7 @@
 import React from 'react'
-import { render, screen } from '@testing-library/react'
+import { screen } from '@testing-library/react'
+
+import { renderWithTheme } from 'utils/tests/helpers'
 
 import MediaMatch from '.'
 
@@ -8,7 +10,7 @@ describe('<MediaMatch />', () => {
   let mobileHeading: Element
 
   beforeEach(() => {
-    render(
+    renderWithTheme(
       <>
         <MediaMatch greaterThan="medium">
           <h1 data-testid="desktop">Desktop</h1>
