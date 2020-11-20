@@ -5,12 +5,12 @@ import * as S from './App.styles'
 function App() {
   return (
     <S.Wrapper>
-      <S.Header>
+      <S.Content>
         <Logo />
-        <h2 aria-label="Boilerplate criado por Jadir Junior">
+        <S.Heading aria-label="Boilerplate criado por Jadir Junior">
           Boilerplate criado por Jadir Junior!
-        </h2>
-      </S.Header>
+        </S.Heading>
+      </S.Content>
     </S.Wrapper>
   )
 }
