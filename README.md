@@ -10,37 +10,50 @@ Esse projeto foi criado pelo [Create React App](https://github.com/facebook/crea
     <tbody>
         <tr>
             <td align="center" valign="middle">
-                <a href="https://www.typescriptlang.org/" style="text-align: center;">
-                    <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/32c5cdaaf45e386876bb7ce3566e5d879cc4b4d4/fa525/img/tech/react.svg" alt="React" />
-                </a>
+                <div>
+                    <a href="https://www.typescriptlang.org/">
+                        <img width="60" src="https://d33wubrfki0l68.cloudfront.net/32c5cdaaf45e386876bb7ce3566e5d879cc4b4d4/fa525/img/tech/react.svg" alt="React" />
+                    </a>
+                </div>
                 <strong>React</strong>
             </td>
             <td align="center" valign="middle">
                 <div>
-                    <a href="https://www.typescriptlang.org/" style="text-align: center;">
-                        <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/07af715eab99df113bc0fe926dcfb3bd5b4e465c/9a37d/img/tech/typescript.svg" alt="TypeScript" />
+                    <a href="https://www.typescriptlang.org/">
+                        <img width="60" src="https://d33wubrfki0l68.cloudfront.net/07af715eab99df113bc0fe926dcfb3bd5b4e465c/9a37d/img/tech/typescript.svg" alt="TypeScript" />
                     </a>
                 </div>
                 <strong>TypeScript</strong>
+            </td>
+            <td align="center" valign="middle">
+                <div>
+                <a href="https://styled-components.com/">
+                    <img width="60" src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" alt="Styled Components" />
+                </a>
+                </div>
+                <strong>Styled <br/> Components</strong>
+            </td>
+            <td align="center" valign="middle">
+                <div>
+                    <a href="https://jestjs.io/">
+                        <img width="60" src="https://d33wubrfki0l68.cloudfront.net/32d23faf39242160063c03836baed91954d051f0/decb4/img/tech/jest.svg" alt="Jest" />
+                    </a>
+                </div>
+                <strong>Jest</strong>
+            </td>
+            <td align="center" valign="middle">
+                <div>
+                    <a href="https://testing-library.com/">
+                        <img width="60" src="https://d33wubrfki0l68.cloudfront.net/d8252a1a8dedc92cdb69ee5c022cd91c67e3af4e/51dd8/img/tech/rtl.svg"  alt="Testing Library" />
+                    </a>
+                </div>
+                <strong>Testing Library</strong>
             </td>
         </tr>
     </tbody>
 </table>
 
 <div style="display: flex; justify-content: space-between;" class="d-flex">
-
-    <a href="https://styled-components.com/" style="text-align: center">
-        <img width="60" src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" style="width: 60px; margin: 0 20px" alt="Styled Components" />
-        <p style="font-weight: bold; color: black">Styled <br/> Components</p>
-    </a>
-    <a href="https://jestjs.io/" style="text-align: center;">
-        <img width="60" src="https://d33wubrfki0l68.cloudfront.net/32d23faf39242160063c03836baed91954d051f0/decb4/img/tech/jest.svg" style="width: 60px; margin: 0 20px" alt="Jest" />
-        <p style="font-weight: bold; color: black">Jest</p>
-    </a>
-    <a href="https://testing-library.com/" style="text-align: center;">
-        <img width="60" src="https://d33wubrfki0l68.cloudfront.net/d8252a1a8dedc92cdb69ee5c022cd91c67e3af4e/51dd8/img/tech/rtl.svg" style="width: 60px; margin: 0 20px" alt="Testing Library" />
-        <p style="font-weight: bold; color: black">Testing Library</p>
-    </a>
 
 </div>
 
