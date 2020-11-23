@@ -6,15 +6,27 @@
 
 Esse projeto foi criado pelo [Create React App](https://github.com/facebook/create-react-app) e costumizado!
 
+<table>
+    <tbody>
+        <tr>
+            <td align="center" valign="middle">
+                <a href="https://www.typescriptlang.org/" style="text-align: center;">
+                    <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/32c5cdaaf45e386876bb7ce3566e5d879cc4b4d4/fa525/img/tech/react.svg" alt="React" />
+                    <p style="font-weight: bold; color: black">React</p>
+                </a>
+            </td>
+            <td>
+                <a href="https://www.typescriptlang.org/" style="text-align: center;">
+                    <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/07af715eab99df113bc0fe926dcfb3bd5b4e465c/9a37d/img/tech/typescript.svg" alt="TypeScript" />
+                    <p style="font-weight: bold; color: black">TypeScript</p>
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <div style="display: flex; justify-content: space-between;" class="d-flex">
-    <a href="https://www.typescriptlang.org/" style="text-align: center;">
-        <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/32c5cdaaf45e386876bb7ce3566e5d879cc4b4d4/fa525/img/tech/react.svg" alt="React" />
-        <p style="font-weight: bold; color: black">React</p>
-    </a>
-    <a href="https://www.typescriptlang.org/" style="text-align: center;">
-        <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/07af715eab99df113bc0fe926dcfb3bd5b4e465c/9a37d/img/tech/typescript.svg" alt="TypeScript" />
-        <p style="font-weight: bold; color: black">TypeScript</p>
-    </a>
+
     <a href="https://styled-components.com/" style="text-align: center">
         <img width="60" src="https://avatars2.githubusercontent.com/u/20658825?s=200&v=4" style="width: 60px; margin: 0 20px" alt="Styled Components" />
         <p style="font-weight: bold; color: black">Styled <br/> Components</p>
@@ -27,6 +39,7 @@ Esse projeto foi criado pelo [Create React App](https://github.com/facebook/crea
         <img width="60" src="https://d33wubrfki0l68.cloudfront.net/d8252a1a8dedc92cdb69ee5c022cd91c67e3af4e/51dd8/img/tech/rtl.svg" style="width: 60px; margin: 0 20px" alt="Testing Library" />
         <p style="font-weight: bold; color: black">Testing Library</p>
     </a>
+
 </div>
 
 <div style="display: flex; justify-content: space-between;">
