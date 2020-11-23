@@ -1,10 +1,12 @@
 # React Boilerplate SPA
 
+<i>Criado e mantido por: Jadir Junior</i>
+
 ![Build Status](https://github.com/jadir-junior/boilerplate-spa-react/workflows/ci/badge.svg)
 
 ## O que tem nele?
 
-Esse projeto foi criado pelo [Create React App](https://github.com/facebook/create-react-app) e costumizado!
+Esse projeto foi criado pelo [Create React App](https://github.com/facebook/create-react-app) e costumizado com:
 
 <table>
     <tbody>
