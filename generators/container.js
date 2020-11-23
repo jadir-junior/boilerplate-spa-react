@@ -12,7 +12,7 @@ module.exports = (plop) => {
       {
         type: 'add',
         path: '../src/containers/{{pascalCase name}}/index.tsx',
-        templateFile: 'templates/Container.tsx.hbs'
+        templateFile: 'templates/component.tsx.hbs'
       },
       {
         type: 'add',
