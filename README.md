@@ -16,9 +16,11 @@ Esse projeto foi criado pelo [Create React App](https://github.com/facebook/crea
                 <strong>React</strong>
             </td>
             <td align="center" valign="middle">
-                <a href="https://www.typescriptlang.org/" style="text-align: center;">
-                    <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/07af715eab99df113bc0fe926dcfb3bd5b4e465c/9a37d/img/tech/typescript.svg" alt="TypeScript" />
-                </a>
+                <div>
+                    <a href="https://www.typescriptlang.org/" style="text-align: center;">
+                        <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/07af715eab99df113bc0fe926dcfb3bd5b4e465c/9a37d/img/tech/typescript.svg" alt="TypeScript" />
+                    </a>
+                </div>
                 <strong>TypeScript</strong>
             </td>
         </tr>
