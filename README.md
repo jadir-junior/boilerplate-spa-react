@@ -6,7 +6,7 @@
 
 Esse projeto foi criado pelo [Create React App](https://github.com/facebook/create-react-app) e costumizado!
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;" class="d-flex">
     <a href="https://www.typescriptlang.org/" style="text-align: center;">
         <img width="60" style="width: 60px; margin: 0 20px" src="https://d33wubrfki0l68.cloudfront.net/32c5cdaaf45e386876bb7ce3566e5d879cc4b4d4/fa525/img/tech/react.svg" alt="React" />
         <p style="font-weight: bold; color: black">React</p>
