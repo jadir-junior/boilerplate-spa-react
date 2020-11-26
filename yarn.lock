@@ -1138,7 +1138,7 @@
     "@babel/helper-plugin-utils" "^7.10.4"
     "@babel/plugin-transform-typescript" "^7.12.1"
 
-"@babel/preset-typescript@^7.12.1":
+"@babel/preset-typescript@^7.12.1", "@babel/preset-typescript@^7.12.7":
   version "7.12.7"
   resolved "https://registry.yarnpkg.com/@babel/preset-typescript/-/preset-typescript-7.12.7.tgz#fc7df8199d6aae747896f1e6c61fc872056632a3"
   integrity sha512-nOoIqIqBmHBSEgBXWR4Dv/XBehtIFcw9PqZw6rFYuKrzsZmOQm3PR5siLBnKZFEsDb03IegG8nSjU/iXXXYRmw==
@@ -1868,7 +1868,7 @@
     regenerator-runtime "^0.13.7"
     ts-dedent "^2.0.0"
 
-"@storybook/addon-links@^6.1.2":
+"@storybook/addon-links@^6.1.7":
   version "6.1.7"
   resolved "https://registry.yarnpkg.com/@storybook/addon-links/-/addon-links-6.1.7.tgz#b0d31f81bcc58a934d4ab859a3e2613b67047d02"
   integrity sha512-8CnZBpV34tFVUtS7Jx8nvkf9cJ26GYasvGnfW5vQXo28T6b65eXWJNYl8W9EPfQUcBhHHZnGhc9dIOJvh40U0g==
